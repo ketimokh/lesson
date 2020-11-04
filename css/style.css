@@ -1,0 +1,117 @@
+.conteiner{
+	max-width: 1300px;
+	width: 100%;
+	margin: 20px auto;
+}
+.box{
+	display: flex;
+
+}
+.adventure{
+	display: flex;
+	align-items: left;
+	flex-wrap: wrap;
+	background-color:#F8F8F8;
+	width: 405px;
+	height: 478px;
+	margin:0 0 0 40px;
+}
+.title-block{
+	font-size: 26px;
+}
+.travel-grey{
+	font-size: 13px;
+	color: #707070;
+}
+.travel-title{
+	font-size: 20px;
+	padding: 5px 0 0;
+}
+.article{
+	font-size: 15px;
+	padding:10px 0 0;
+}
+.photo-block{
+	position: relative;
+}
+.photo{
+	width: 500px;
+	height: 477px;
+	padding: 0  0 0 200px;
+}
+.photo-block p{
+	width: 450px;
+	position: absolute;
+    bottom: 50px;
+    right: 20px;
+}
+.travel-grey1{
+	font-size: 15px;
+	color: #F8F8F8;
+	padding-bottom: 70px;
+}
+.travel-title1{
+	font-size: 32px;
+	color: #F8F8F8;
+	padding-bottom: 40px;
+}
+.article1{
+	font-size: 15px;
+	color: #F8F8F8;
+	padding-bottom: 10px;
+}
+.adventure-world{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #F8F8F8;
+	margin: 0 100px 0 10px;
+	padding: 5px 10px 10px 30px;
+}
+.travel-guide img {
+	width: 377px;
+	height: 156px;
+}
+.travel-guide p{
+	width: 375px;
+	height: 50px;
+	padding:0 10px 0 10px;
+}
+.title-two{
+	font-size: 26px;
+	padding: 10px 20px 10px 30px;
+}
+.travel-guide-title{
+	font-size: 20px;
+	padding: 5px 0 5px 0;
+}
+.article-adventure{
+	font-size: 15px;
+	padding: 10px 0 10px 0;
+}
+.footer-box{
+	display: flex;
+	width: 1200px;
+	/*height: 159px;*/
+	justify-content: space-between;
+    background-color: #F8F8F8;
+	margin: 20px auto;
+	padding: 100px 40px 0 0;
+}
+.trav-blog1{
+    font-size: 16px;
+    padding-top: 20px;
+}
+.trav-blog-grey{
+	font-size: 15px;
+	padding-top: 10px;
+}
+.trav-blog{
+	font-size: 15px;
+	padding: 2px 0 2px 0;
+}
+.icone{
+	width: 25px;
+	height: 25px;
+	padding: 7px 2px 2px 2px;
+}
